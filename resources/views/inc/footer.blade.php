@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col">
           <p>Copyright &copy;
-            <span id="year"><?php echo date('Y'); ?></span> Glozzom</p>
+            <span id="year"><?php echo date('Y'); ?></span> Website</p>
         </div>
       </div>
     </div>
